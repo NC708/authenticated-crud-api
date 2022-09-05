@@ -1,0 +1,5 @@
+{
+    "name": "authenticated-crud-api",
+    "version": "0.1.0",
+    "description": "REST API using Fastify framework"
+  }
